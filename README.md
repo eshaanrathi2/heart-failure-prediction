@@ -1,2 +1,1 @@
-# heart-disease-knn
-a simple heart disease prediction snippet with k nearest neighbour
+Machine learning classification over heart failure clinical records
