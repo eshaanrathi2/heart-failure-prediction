@@ -1,5 +1,7 @@
 # Machine learning classification over heart failure clinical records
+
 In the project the following problems were solved / tasks were accomplished:
+
 • Performed descriptive statistical analysis and data preprocessing for Heart failure clinical records, UCI.
 
 • Employed Plotly and Seaborn for data visualisations.
